@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:feeding_upgrade|true", "sophisticatedbackpacks:everlasting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_4|true", "sophisticatedbackpacks:stack_upgrade_tier_2|true", "sophisticatedbackpacks:stack_upgrade_tier_3|true", "sophisticatedbackpacks:stack_upgrade_tier_1|true", "sophisticatedbackpacks:restock_upgrade|true", "sophisticatedbackpacks:compacting_upgrade|true", "sophisticatedbackpacks:battery_upgrade|true", "sophisticatedbackpacks:advanced_feeding_upgrade|true", "sophisticatedbackpacks:diamond_backpack|true", "sophisticatedbackpacks:stack_downgrade_tier_2|true", "sophisticatedbackpacks:stack_downgrade_tier_1|true", "sophisticatedbackpacks:stack_downgrade_tier_3|true", "sophisticatedbackpacks:gold_backpack|true", "sophisticatedbackpacks:advanced_restock_upgrade|true", "sophisticatedbackpacks:stack_upgrade_omega_tier|true"]
+
