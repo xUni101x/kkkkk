@@ -538,3 +538,22 @@ io.netty.channel.StacklessClosedChannelException: null
 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
 [14Jul2025 21:37:18.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
 [14Jul2025 21:37:18.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[14Jul2025 21:37:48.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.13.23.65:58307] logged in with entity id 4945 at (1.5, 75.0, 6.5)
+[14Jul2025 21:37:48.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[14Jul2025 21:38:19.859] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_air:main,cataclysm:main_channel] rejected their client side version number
+[14Jul2025 21:38:19.860] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[14Jul2025 21:38:19.867] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74f2220d[id=<null>,name=Fresita_decaida,properties={},legacy=false] (/127.69.3.228:33477) lost connection: Connection closed - mismatched mod channel list
+[14Jul2025 21:41:54.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 drowned
+[14Jul2025 21:42:36.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63f48713[id=<null>,name=Fresita_decaida,properties={},legacy=false] (/127.69.3.228:49363) lost connection: Disconnected
+[14Jul2025 21:44:13.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:36907] logged in with entity id 8067 at (2.5, 78.0, 2.5)
+[14Jul2025 21:44:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[14Jul2025 21:44:25.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[14Jul2025 21:44:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[14Jul2025 21:45:37.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:55129] logged in with entity id 8463 at (2.5, 78.0, 2.5)
+[14Jul2025 21:45:37.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[14Jul2025 21:45:50.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[14Jul2025 21:45:50.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[14Jul2025 21:46:49.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:37009] logged in with entity id 9007 at (2.5, 78.0, 2.5)
+[14Jul2025 21:46:49.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[14Jul2025 21:47:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Sweet Dreams]
+[14Jul2025 21:47:47.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Sweet Dreams]
