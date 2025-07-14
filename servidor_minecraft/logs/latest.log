@@ -557,3 +557,16 @@ io.netty.channel.StacklessClosedChannelException: null
 [14Jul2025 21:46:49.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
 [14Jul2025 21:47:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Sweet Dreams]
 [14Jul2025 21:47:47.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Sweet Dreams]
+[14Jul2025 21:48:52.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Stone Age]
+[14Jul2025 21:49:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Stone Age]
+[14Jul2025 21:49:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Getting an Upgrade]
+[14Jul2025 21:49:59.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Getting an Upgrade]
+[14Jul2025 21:50:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Acquire Hardware]
+[14Jul2025 21:51:37.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[14Jul2025 21:51:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[14Jul2025 21:52:29.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:56959] logged in with entity id 10817 at (-274.66139077907013, 72.0, 49.39683155988026)
+[14Jul2025 21:52:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[14Jul2025 21:56:53.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[14Jul2025 21:56:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[14Jul2025 21:57:08.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:36751] logged in with entity id 13376 at (-197.8712197014123, 85.0, 88.91288828978674)
+[14Jul2025 21:57:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
