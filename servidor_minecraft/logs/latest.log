@@ -570,3 +570,33 @@ io.netty.channel.StacklessClosedChannelException: null
 [14Jul2025 21:56:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
 [14Jul2025 21:57:08.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:36751] logged in with entity id 13376 at (-197.8712197014123, 85.0, 88.91288828978674)
 [14Jul2025 21:57:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[14Jul2025 21:57:57.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[14Jul2025 21:57:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[14Jul2025 21:59:07.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.69.3.228:43389] logged in with entity id 14137 at (-210.15117076334855, 76.0, 88.45133981509987)
+[14Jul2025 21:59:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[14Jul2025 21:59:25.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[14Jul2025 21:59:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[14Jul2025 21:59:59.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 was kicked for floating too long!
+[14Jul2025 21:59:59.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Flying is not enabled on this server
+[14Jul2025 21:59:59.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[14Jul2025 22:00:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jul2025 22:00:26.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 22:00:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 22:00:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 22:00:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld world'/minecraft:overworld
+[14Jul2025 22:00:27.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 world'/immersive_portals:alternate5
+[14Jul2025 22:00:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 world'/immersive_portals:alternate4
+[14Jul2025 22:00:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 world'/immersive_portals:alternate3
+[14Jul2025 22:00:27.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 world'/immersive_portals:alternate1
+[14Jul2025 22:00:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether world'/minecraft:the_nether
+[14Jul2025 22:00:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end world'/minecraft:the_end
+[14Jul2025 22:00:27.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 world'/immersive_portals:alternate2
+[14Jul2025 22:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 22:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate5): All chunks are saved
+[14Jul2025 22:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate4): All chunks are saved
+[14Jul2025 22:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate3): All chunks are saved
+[14Jul2025 22:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate1): All chunks are saved
+[14Jul2025 22:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 22:00:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 22:00:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate2): All chunks are saved
+[14Jul2025 22:00:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

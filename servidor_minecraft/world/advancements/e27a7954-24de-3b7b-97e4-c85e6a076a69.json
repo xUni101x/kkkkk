@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-14 21:41:36 +0000",
+      "minecraft:meadow": "2025-07-14 21:54:59 +0000",
       "minecraft:plains": "2025-07-14 07:33:29 +0000"
     },
     "done": false
@@ -126,6 +127,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_water_bucket": "2025-07-14 21:56:29 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_chestplate": {
     "criteria": {
       "has_coal": "2025-07-14 21:51:04 +0000"
@@ -213,6 +220,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-14 21:48:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_water_bucket": "2025-07-14 21:56:29 +0000"
     },
     "done": true
   },
@@ -396,6 +409,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_water_bucket": "2025-07-14 21:56:29 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/strawhat_leggings": {
     "criteria": {
       "has_white_wool": "2025-07-14 21:51:45 +0000"
@@ -558,6 +577,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_water_bucket": "2025-07-14 21:56:29 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_boots": {
     "criteria": {
       "has_coal": "2025-07-14 21:51:04 +0000"
@@ -585,6 +610,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-14 21:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-14 21:55:44 +0000"
     },
     "done": true
   },
@@ -750,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-14 21:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-14 21:41:31 +0000"
@@ -774,6 +811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-14 21:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 21:50:39 +0000"
@@ -789,6 +832,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-14 21:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-14 21:55:44 +0000"
     },
     "done": true
   },
