@@ -563,3 +563,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [15Jul2025 06:50:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Big Boy]
 [15Jul2025 06:54:16.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1085, y=15, z=487} BlockPos{x=-1084, y=14, z=487}
 [15Jul2025 06:55:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Bypassing the Expiration Date]
+[15Jul2025 06:57:18.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1038, y=69, z=573} BlockPos{x=-1039, y=67, z=573}
+[15Jul2025 07:02:41.280] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 07:03:01.315] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 07:05:16.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41162, l='ServerWorld minecraft:overworld world', x=669.72, y=105.00, z=-964.37] died, message: 'Villager suffocated in a wall'
+[15Jul2025 07:08:41.720] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 07:09:01.779] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 07:09:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Ice Bucket Challenge]
+[15Jul2025 07:10:01.821] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 07:10:21.863] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 07:11:01.904] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 07:11:41.946] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 07:12:37.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [What Man Wasn't Meant to Know]
+[15Jul2025 07:14:02.174] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 07:14:22.221] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 07:16:47.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Timed out
+[15Jul2025 07:16:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[15Jul2025 07:16:50.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Timed out
+[15Jul2025 07:16:50.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
