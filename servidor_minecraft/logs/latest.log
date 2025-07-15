@@ -532,3 +532,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [15Jul2025 06:04:36.023] [Server thread/INFO] [Portal/]: Server performance level: medium
 [15Jul2025 06:04:56.060] [Server thread/INFO] [Portal/]: Server performance level: good
 [15Jul2025 06:05:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur fell from a high place
+[15Jul2025 06:05:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was shot by Skeleton
+[15Jul2025 06:05:56.183] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 06:06:16.207] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 06:06:56.247] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 06:07:16.292] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 06:11:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was blown up by Creeper
+[15Jul2025 06:14:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Spider
+[15Jul2025 06:14:28.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was shot by Skeleton
+[15Jul2025 06:14:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Zombie Bruiser
+[15Jul2025 06:16:11.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Spider
+[15Jul2025 06:19:40.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Zombie Bruiser
+[15Jul2025 06:21:17.406] [Server thread/INFO] [Portal/]: Server performance level: medium
+[15Jul2025 06:21:37.415] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 06:25:55.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Acquire Hardware]
+[15Jul2025 06:26:27.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Isn't It Iron Pick]
+[15Jul2025 06:26:39.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Suit Up]
+[15Jul2025 06:28:28.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur fell from a high place
+[15Jul2025 06:30:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Zombie
+[15Jul2025 06:34:19.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 drowned
+[15Jul2025 06:34:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur went up in flames

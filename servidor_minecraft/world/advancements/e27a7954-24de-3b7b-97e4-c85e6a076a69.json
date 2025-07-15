@@ -3013,6 +3013,36 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-15 06:30:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-15 06:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-15 06:02:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-15 06:30:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_poisonous_potato": "2025-07-15 06:30:00 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-07-15 05:57:01 +0000"
