@@ -1,27 +1,27 @@
-[15Jul2025 01:12:51.573] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Jul2025 01:12:51.578] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[15Jul2025 01:12:51.982] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Jul2025 01:12:52.040] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/kkkkk/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Jul2025 01:12:52.337] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jul2025 01:12:52.338] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jul2025 01:12:52.339] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jul2025 01:12:52.341] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jul2025 01:12:52.522] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[15Jul2025 01:12:54.351] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Jul2025 01:12:54.438] [main/ERROR] [mixin/]: Mixin config imm_ptl.mixins.json does not specify "minVersion" property
-[15Jul2025 01:12:54.441] [main/ERROR] [mixin/]: Mixin config imm_ptl_fabric.mixins.json does not specify "minVersion" property
-[15Jul2025 01:12:54.442] [main/ERROR] [mixin/]: Mixin config imm_ptl_compat.mixins.json does not specify "minVersion" property
-[15Jul2025 01:12:54.448] [main/ERROR] [mixin/]: Mixin config imm_ptl_peripheral.mixins.json does not specify "minVersion" property
-[15Jul2025 01:12:54.450] [main/ERROR] [mixin/]: Mixin config q_misc_util.mixins.json does not specify "minVersion" property
-[15Jul2025 01:12:54.462] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Jul2025 01:12:54.516] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jul2025 01:12:54.517] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jul2025 01:12:54.632] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jul2025 01:12:54.633] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jul2025 01:12:54.686] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jul2025 01:12:55.782] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15Jul2025 01:13:01.889] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@3c854752 on thread Thread[modloading-worker-0,5,main]
-[15Jul2025 01:13:01.889] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[15Jul2025 02:11:21.042] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Jul2025 02:11:21.046] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[15Jul2025 02:11:21.478] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Jul2025 02:11:21.527] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/kkkkk/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Jul2025 02:11:21.809] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 02:11:21.811] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 02:11:21.812] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 02:11:21.813] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/kkkkk/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 02:11:22.004] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[15Jul2025 02:11:23.846] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Jul2025 02:11:23.924] [main/ERROR] [mixin/]: Mixin config imm_ptl.mixins.json does not specify "minVersion" property
+[15Jul2025 02:11:23.926] [main/ERROR] [mixin/]: Mixin config imm_ptl_fabric.mixins.json does not specify "minVersion" property
+[15Jul2025 02:11:23.928] [main/ERROR] [mixin/]: Mixin config imm_ptl_compat.mixins.json does not specify "minVersion" property
+[15Jul2025 02:11:23.931] [main/ERROR] [mixin/]: Mixin config imm_ptl_peripheral.mixins.json does not specify "minVersion" property
+[15Jul2025 02:11:23.933] [main/ERROR] [mixin/]: Mixin config q_misc_util.mixins.json does not specify "minVersion" property
+[15Jul2025 02:11:23.952] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Jul2025 02:11:24.010] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jul2025 02:11:24.012] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jul2025 02:11:24.143] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jul2025 02:11:24.145] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jul2025 02:11:24.190] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Jul2025 02:11:25.282] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15Jul2025 02:11:31.315] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@3166f664 on thread Thread[modloading-worker-0,5,main]
+[15Jul2025 02:11:31.319] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -51,17 +51,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
 	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
 	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
-	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23150!/:com.obscuria]
-	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23150!/:com.obscuria]
-	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23150!/:com.obscuria]
-	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23150!/:com.obscuria]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23151!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23151!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23151!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23151!/:com.obscuria]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
 	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23159!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23158!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23161!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23160!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -69,88 +69,218 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[15Jul2025 01:13:01.902] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[15Jul2025 01:13:02.957] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[15Jul2025 01:13:03.009] [modloading-worker-0/INFO] [Portal/]: Loading Immersive Portals config
-[15Jul2025 01:13:03.062] [modloading-worker-0/INFO] [Portal/]: IP Config Applied
-[15Jul2025 01:13:03.065] [modloading-worker-0/INFO] [Portal/]: Immersive Portals Mod Initializing
-[15Jul2025 01:13:03.117] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Jul2025 01:13:03.118] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Jul2025 01:13:03.146] [modloading-worker-0/INFO] [Portal/]: Dimensional Threading is not present
-[15Jul2025 01:13:03.150] [modloading-worker-0/INFO] [Portal/]: Pehkui is not present
-[15Jul2025 01:13:03.150] [modloading-worker-0/INFO] [Portal/]: Gravity API is not present
-[15Jul2025 01:13:03.177] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[15Jul2025 01:13:03.177] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[15Jul2025 01:13:03.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@7b83476f has been registered twice for the same name treechop:chop_wood.
-[15Jul2025 01:13:05.243] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[15Jul2025 01:13:05.628] [modloading-worker-0/INFO] [Portal/]: imm_ptl_core commonSetup called
-[15Jul2025 01:13:05.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[15Jul2025 01:13:06.048] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[15Jul2025 01:13:06.124] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15Jul2025 02:11:31.326] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[15Jul2025 02:11:32.426] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[15Jul2025 02:11:32.475] [modloading-worker-0/INFO] [Portal/]: Loading Immersive Portals config
+[15Jul2025 02:11:32.523] [modloading-worker-0/INFO] [Portal/]: IP Config Applied
+[15Jul2025 02:11:32.526] [modloading-worker-0/INFO] [Portal/]: Immersive Portals Mod Initializing
+[15Jul2025 02:11:32.592] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Jul2025 02:11:32.597] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Jul2025 02:11:32.602] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[15Jul2025 02:11:32.602] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[15Jul2025 02:11:32.607] [modloading-worker-0/INFO] [Portal/]: Dimensional Threading is not present
+[15Jul2025 02:11:32.608] [modloading-worker-0/INFO] [Portal/]: Pehkui is not present
+[15Jul2025 02:11:32.609] [modloading-worker-0/INFO] [Portal/]: Gravity API is not present
+[15Jul2025 02:11:32.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@59aba6f2 has been registered twice for the same name treechop:chop_wood.
+[15Jul2025 02:11:34.564] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[15Jul2025 02:11:34.961] [modloading-worker-0/INFO] [Portal/]: imm_ptl_core commonSetup called
+[15Jul2025 02:11:35.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[15Jul2025 02:11:35.373] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23158!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23160!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23158!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23160!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15Jul2025 01:13:06.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Jul2025 01:13:06.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[15Jul2025 01:13:06.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[15Jul2025 01:13:06.372] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15Jul2025 02:11:35.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Jul2025 02:11:35.405] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[15Jul2025 02:11:35.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Jul2025 02:11:35.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[15Jul2025 02:11:35.755] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23158!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23160!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23158!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23160!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15Jul2025 01:13:07.905] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Jul2025 01:13:09.096] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/kkkkk/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[15Jul2025 01:13:09.096] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/kkkkk/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[15Jul2025 01:13:10.487] [main/INFO] [Portal/]: imm_ptl_core registerCommands called
-[15Jul2025 01:13:10.519] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[15Jul2025 01:13:10.579] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[15Jul2025 01:13:11.172] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15Jul2025 01:13:11.173] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15Jul2025 01:13:11.173] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15Jul2025 01:13:11.202] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[15Jul2025 02:11:37.301] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Jul2025 02:11:37.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_log Expected: 1004 Got: 1338
+[15Jul2025 02:11:37.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_leaves Expected: 1005 Got: 1339
+[15Jul2025 02:11:37.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_juniper_log Expected: 1006 Got: 1340
+[15Jul2025 02:11:37.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_berry_bush Expected: 1007 Got: 1341
+[15Jul2025 02:11:37.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_planks Expected: 1008 Got: 1342
+[15Jul2025 02:11:37.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_sapling Expected: 1009 Got: 1343
+[15Jul2025 02:11:37.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_door Expected: 1010 Got: 1344
+[15Jul2025 02:11:37.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_trapdoor Expected: 1011 Got: 1345
+[15Jul2025 02:11:37.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_slab Expected: 1012 Got: 1346
+[15Jul2025 02:11:37.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_stair Expected: 1013 Got: 1347
+[15Jul2025 02:11:37.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_fence Expected: 1014 Got: 1348
+[15Jul2025 02:11:37.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_button Expected: 1015 Got: 1349
+[15Jul2025 02:11:37.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_pressure_plate Expected: 1016 Got: 1350
+[15Jul2025 02:11:37.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_fence_gate Expected: 1017 Got: 1351
+[15Jul2025 02:11:37.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_log Expected: 1018 Got: 1352
+[15Jul2025 02:11:37.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_leaves Expected: 1019 Got: 1353
+[15Jul2025 02:11:37.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_ginkgo_log Expected: 1020 Got: 1354
+[15Jul2025 02:11:37.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_planks Expected: 1021 Got: 1355
+[15Jul2025 02:11:37.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_sapling Expected: 1022 Got: 1356
+[15Jul2025 02:11:37.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_door Expected: 1023 Got: 1357
+[15Jul2025 02:11:37.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_trapdoor Expected: 1024 Got: 1358
+[15Jul2025 02:11:37.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_slab Expected: 1025 Got: 1359
+[15Jul2025 02:11:37.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_stair Expected: 1026 Got: 1360
+[15Jul2025 02:11:37.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_fence Expected: 1027 Got: 1361
+[15Jul2025 02:11:37.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_button Expected: 1028 Got: 1362
+[15Jul2025 02:11:37.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_pressure_plate Expected: 1029 Got: 1363
+[15Jul2025 02:11:37.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_fence_gate Expected: 1030 Got: 1364
+[15Jul2025 02:11:37.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_wood Expected: 1031 Got: 1365
+[15Jul2025 02:11:37.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_juniper_wood Expected: 1032 Got: 1366
+[15Jul2025 02:11:37.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:gingko_wood Expected: 1033 Got: 1367
+[15Jul2025 02:11:37.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_gingko_wood Expected: 1034 Got: 1368
+[15Jul2025 02:11:37.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anomalocaris_skeleton Expected: 1035 Got: 1369
+[15Jul2025 02:11:37.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dodo_skeleton Expected: 1036 Got: 1370
+[15Jul2025 02:11:37.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dimorphodon_skeleton Expected: 1037 Got: 1371
+[15Jul2025 02:11:37.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:utahraptor_skeleton Expected: 1038 Got: 1372
+[15Jul2025 02:11:37.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:opabinia_skeleton Expected: 1039 Got: 1373
+[15Jul2025 02:11:37.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathus_skeleton Expected: 1040 Got: 1374
+[15Jul2025 02:11:37.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dunkleosteus_spawn_egg Expected: 1449 Got: 2831
+[15Jul2025 02:11:37.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:therizinosaurus_spawn_egg Expected: 1450 Got: 2832
+[15Jul2025 02:11:37.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:mammoth_spawn_egg Expected: 1451 Got: 2833
+[15Jul2025 02:11:37.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:raw_mammoth_meat Expected: 1452 Got: 2834
+[15Jul2025 02:11:37.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:cooked_mammoth_meat Expected: 1453 Got: 2835
+[15Jul2025 02:11:37.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:phorusrhacos_spawn_egg Expected: 1454 Got: 2836
+[15Jul2025 02:11:37.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ammit_spawn_egg Expected: 1455 Got: 2837
+[15Jul2025 02:11:37.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dimorphodon_spawn_egg Expected: 1456 Got: 2838
+[15Jul2025 02:11:37.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:opabinia_spawn_egg Expected: 1457 Got: 2839
+[15Jul2025 02:11:37.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:jaekelopterus_spawn_egg Expected: 1458 Got: 2840
+[15Jul2025 02:11:37.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:therizinosaurus_claw Expected: 1459 Got: 2841
+[15Jul2025 02:11:37.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ankh Expected: 1460 Got: 2842
+[15Jul2025 02:11:37.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:jaekelopterus_claw Expected: 1461 Got: 2843
+[15Jul2025 02:11:37.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:serpopard_spawn_egg Expected: 1462 Got: 2844
+[15Jul2025 02:11:37.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_log Expected: 1463 Got: 2845
+[15Jul2025 02:11:37.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_leaves Expected: 1464 Got: 2846
+[15Jul2025 02:11:37.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_juniper_log Expected: 1465 Got: 2847
+[15Jul2025 02:11:37.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_berry_bush Expected: 1466 Got: 2848
+[15Jul2025 02:11:37.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_planks Expected: 1467 Got: 2849
+[15Jul2025 02:11:37.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_sapling Expected: 1468 Got: 2850
+[15Jul2025 02:11:37.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_door Expected: 1469 Got: 2851
+[15Jul2025 02:11:37.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_berries Expected: 1470 Got: 2852
+[15Jul2025 02:11:37.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_trapdoor Expected: 1471 Got: 2853
+[15Jul2025 02:11:37.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dodo_meat Expected: 1472 Got: 2854
+[15Jul2025 02:11:37.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:cooked_dodo_meat Expected: 1473 Got: 2855
+[15Jul2025 02:11:37.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dodo_spawn_egg Expected: 1474 Got: 2856
+[15Jul2025 02:11:37.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ammonite_spawn_egg Expected: 1475 Got: 2857
+[15Jul2025 02:11:37.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ammonite_shell Expected: 1476 Got: 2858
+[15Jul2025 02:11:37.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dodo_egg Expected: 1477 Got: 2859
+[15Jul2025 02:11:37.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:sickle Expected: 1478 Got: 2860
+[15Jul2025 02:11:37.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anomalocaris_spawn_egg Expected: 1479 Got: 2861
+[15Jul2025 02:11:37.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:utahraptor_spawn_egg Expected: 1480 Got: 2862
+[15Jul2025 02:11:37.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:cooked_dodo_egg Expected: 1481 Got: 2863
+[15Jul2025 02:11:37.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_slab Expected: 1482 Got: 2864
+[15Jul2025 02:11:37.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_stair Expected: 1483 Got: 2865
+[15Jul2025 02:11:37.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_fence Expected: 1484 Got: 2866
+[15Jul2025 02:11:37.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_button Expected: 1485 Got: 2867
+[15Jul2025 02:11:37.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_pressure_plate Expected: 1486 Got: 2868
+[15Jul2025 02:11:37.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_fence_gate Expected: 1487 Got: 2869
+[15Jul2025 02:11:37.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ankh_shield Expected: 1488 Got: 2870
+[15Jul2025 02:11:37.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathus_spawn_egg Expected: 1489 Got: 2871
+[15Jul2025 02:11:37.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:spinosaurus_spawn_egg Expected: 1490 Got: 2872
+[15Jul2025 02:11:37.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_log Expected: 1491 Got: 2873
+[15Jul2025 02:11:37.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_leaves Expected: 1492 Got: 2874
+[15Jul2025 02:11:37.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_ginkgo_log Expected: 1493 Got: 2875
+[15Jul2025 02:11:37.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_planks Expected: 1494 Got: 2876
+[15Jul2025 02:11:37.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_sapling Expected: 1495 Got: 2877
+[15Jul2025 02:11:37.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_door Expected: 1496 Got: 2878
+[15Jul2025 02:11:37.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_trapdoor Expected: 1497 Got: 2879
+[15Jul2025 02:11:37.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_slab Expected: 1498 Got: 2880
+[15Jul2025 02:11:37.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_stair Expected: 1499 Got: 2881
+[15Jul2025 02:11:37.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_fence Expected: 1500 Got: 2882
+[15Jul2025 02:11:37.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_button Expected: 1501 Got: 2883
+[15Jul2025 02:11:37.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_pressure_plate Expected: 1502 Got: 2884
+[15Jul2025 02:11:37.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ginkgo_fence_gate Expected: 1503 Got: 2885
+[15Jul2025 02:11:37.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:juniper_wood Expected: 1504 Got: 2886
+[15Jul2025 02:11:37.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_juniper_wood Expected: 1505 Got: 2887
+[15Jul2025 02:11:37.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:gingko_wood Expected: 1506 Got: 2888
+[15Jul2025 02:11:37.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:stripped_gingko_wood Expected: 1507 Got: 2889
+[15Jul2025 02:11:37.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:spinosaurus_sail_chestplate Expected: 1508 Got: 2890
+[15Jul2025 02:11:37.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:prehistoric_discovery Expected: 1509 Got: 2891
+[15Jul2025 02:11:37.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:carnotaurus_spawn_egg Expected: 1510 Got: 2892
+[15Jul2025 02:11:37.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anomalocaris_skeleton Expected: 1511 Got: 2893
+[15Jul2025 02:11:37.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dodo_skeleton Expected: 1512 Got: 2894
+[15Jul2025 02:11:37.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dimorphodon_skeleton Expected: 1513 Got: 2895
+[15Jul2025 02:11:37.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:utahraptor_skeleton Expected: 1514 Got: 2896
+[15Jul2025 02:11:37.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:opabinia_skeleton Expected: 1515 Got: 2897
+[15Jul2025 02:11:37.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathus_skeleton Expected: 1516 Got: 2898
+[15Jul2025 02:11:37.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:prehistoricdiscovery Expected: 1476 Got: 2217
+[15Jul2025 02:11:37.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dunkdeathsound Expected: 1477 Got: 2218
+[15Jul2025 02:11:37.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:spinosaurushurt Expected: 1478 Got: 2219
+[15Jul2025 02:11:37.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:spinosaurusdeath Expected: 1479 Got: 2220
+[15Jul2025 02:11:37.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:spinosaurusidle Expected: 1480 Got: 2221
+[15Jul2025 02:11:37.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathusdeath Expected: 1481 Got: 2222
+[15Jul2025 02:11:37.561] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathushurt Expected: 1482 Got: 2223
+[15Jul2025 02:11:37.561] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathusidle Expected: 1483 Got: 2224
+[15Jul2025 02:11:37.564] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dunkleosteus Expected: 139 Got: 614
+[15Jul2025 02:11:37.564] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:therizinosaurus Expected: 140 Got: 615
+[15Jul2025 02:11:37.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:mammoth Expected: 141 Got: 616
+[15Jul2025 02:11:37.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:phorusrhacos Expected: 142 Got: 617
+[15Jul2025 02:11:37.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ammit Expected: 143 Got: 618
+[15Jul2025 02:11:37.566] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dimorphodon Expected: 144 Got: 619
+[15Jul2025 02:11:37.566] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:opabinia Expected: 145 Got: 620
+[15Jul2025 02:11:37.566] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:jaekelopterus Expected: 146 Got: 621
+[15Jul2025 02:11:37.566] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:serpopard Expected: 147 Got: 622
+[15Jul2025 02:11:37.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dodo Expected: 148 Got: 623
+[15Jul2025 02:11:37.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:ammonite Expected: 149 Got: 624
+[15Jul2025 02:11:37.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anomalocaris Expected: 150 Got: 625
+[15Jul2025 02:11:37.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:utahraptor Expected: 151 Got: 626
+[15Jul2025 02:11:37.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:dd_egg Expected: 152 Got: 627
+[15Jul2025 02:11:37.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:anurognathus Expected: 153 Got: 628
+[15Jul2025 02:11:37.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:spinosaurus Expected: 154 Got: 629
+[15Jul2025 02:11:37.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: shineals_prehistoric_expansion:carnotaurus Expected: 155 Got: 630
+[15Jul2025 02:11:38.627] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/kkkkk/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[15Jul2025 02:11:38.627] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/kkkkk/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[15Jul2025 02:11:40.109] [main/INFO] [Portal/]: imm_ptl_core registerCommands called
+[15Jul2025 02:11:40.143] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[15Jul2025 02:11:40.271] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[15Jul2025 02:11:40.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Jul2025 02:11:40.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Jul2025 02:11:40.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Jul2025 02:11:40.914] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -166,20 +296,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jul2025 01:13:11.210] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[15Jul2025 02:11:40.922] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
-	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -195,24 +325,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jul2025 01:13:11.223] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[15Jul2025 02:11:40.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -228,35 +358,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jul2025 01:13:11.255] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[15Jul2025 01:13:11.291] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
-[15Jul2025 01:13:11.411] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1803 advancements
-[15Jul2025 01:13:11.435] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[15Jul2025 01:13:11.447] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[15Jul2025 01:13:11.470] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[15Jul2025 01:13:12.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Jul2025 01:13:12.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Jul2025 01:13:12.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Jul2025 01:13:12.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Jul2025 01:13:12.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Jul2025 01:13:12.632] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Jul2025 01:13:12.722] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Jul2025 01:13:12.723] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Jul2025 01:13:12.723] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Jul2025 01:13:12.723] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Jul2025 01:13:12.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Jul2025 01:13:16.041] [Server thread/INFO] [qouteall.imm_ptl.peripheral.dim_stack.DimStackManagement/]: The server has no dimension stack preset.
-[15Jul2025 01:13:16.042] [Server thread/INFO] [Portal/]: Bedrock Replacement minecraft:overworld null
-[15Jul2025 01:13:16.042] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate4 null
-[15Jul2025 01:13:16.043] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate3 null
-[15Jul2025 01:13:16.043] [Server thread/INFO] [Portal/]: Bedrock Replacement minecraft:the_nether null
-[15Jul2025 01:13:16.043] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate1 null
-[15Jul2025 01:13:16.043] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate5 null
-[15Jul2025 01:13:16.044] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate2 null
-[15Jul2025 01:13:16.044] [Server thread/INFO] [Portal/]: Bedrock Replacement minecraft:the_end null
-[15Jul2025 01:13:16.046] [Server thread/INFO] [Portal/]: Successfully read IP's dimension id record
-[15Jul2025 01:13:16.047] [Server thread/INFO] [Portal/]: Start Completing Dimension Id Record
-[15Jul2025 01:13:16.048] [Server thread/INFO] [Portal/]: Before:
+[15Jul2025 02:11:40.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[15Jul2025 02:11:41.004] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
+[15Jul2025 02:11:41.141] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1804 advancements
+[15Jul2025 02:11:41.164] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[15Jul2025 02:11:41.172] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[15Jul2025 02:11:41.226] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[15Jul2025 02:11:42.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Jul2025 02:11:42.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Jul2025 02:11:42.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Jul2025 02:11:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Jul2025 02:11:42.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Jul2025 02:11:42.264] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Jul2025 02:11:42.353] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Jul2025 02:11:42.354] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Jul2025 02:11:42.354] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Jul2025 02:11:42.354] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Jul2025 02:11:42.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Jul2025 02:11:45.562] [Server thread/INFO] [qouteall.imm_ptl.peripheral.dim_stack.DimStackManagement/]: The server has no dimension stack preset.
+[15Jul2025 02:11:45.563] [Server thread/INFO] [Portal/]: Bedrock Replacement minecraft:overworld null
+[15Jul2025 02:11:45.563] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate2 null
+[15Jul2025 02:11:45.564] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate4 null
+[15Jul2025 02:11:45.564] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate1 null
+[15Jul2025 02:11:45.564] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate5 null
+[15Jul2025 02:11:45.564] [Server thread/INFO] [Portal/]: Bedrock Replacement immersive_portals:alternate3 null
+[15Jul2025 02:11:45.565] [Server thread/INFO] [Portal/]: Bedrock Replacement minecraft:the_nether null
+[15Jul2025 02:11:45.565] [Server thread/INFO] [Portal/]: Bedrock Replacement minecraft:the_end null
+[15Jul2025 02:11:45.567] [Server thread/INFO] [Portal/]: Successfully read IP's dimension id record
+[15Jul2025 02:11:45.568] [Server thread/INFO] [Portal/]: Start Completing Dimension Id Record
+[15Jul2025 02:11:45.569] [Server thread/INFO] [Portal/]: Before:
 minecraft:the_nether -> -1
 minecraft:overworld -> 0
 minecraft:the_end -> 1
@@ -265,7 +395,7 @@ immersive_portals:alternate2 -> 3
 immersive_portals:alternate3 -> 4
 immersive_portals:alternate4 -> 5
 immersive_portals:alternate5 -> 6
-[15Jul2025 01:13:16.048] [Server thread/INFO] [Portal/]: Server Loaded Dimensions:
+[15Jul2025 02:11:45.570] [Server thread/INFO] [Portal/]: Server Loaded Dimensions:
 immersive_portals:alternate1
 immersive_portals:alternate2
 immersive_portals:alternate3
@@ -275,7 +405,7 @@ minecraft:overworld
 minecraft:the_end
 minecraft:the_nether
 
-[15Jul2025 01:13:16.049] [Server thread/INFO] [Portal/]: After:
+[15Jul2025 02:11:45.570] [Server thread/INFO] [Portal/]: After:
 minecraft:the_nether -> -1
 minecraft:overworld -> 0
 minecraft:the_end -> 1
@@ -284,284 +414,41 @@ immersive_portals:alternate2 -> 3
 immersive_portals:alternate3 -> 4
 immersive_portals:alternate4 -> 5
 immersive_portals:alternate5 -> 6
-[15Jul2025 01:13:16.050] [Server thread/INFO] [Portal/]: Dimension Id Info Saved to File
-[15Jul2025 01:13:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Jul2025 01:13:19.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.808] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.810] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.811] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.811] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.812] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:19.813] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:20.053] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jul2025 01:13:20.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[15Jul2025 01:13:21.057] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5005 ms
-[15Jul2025 01:13:21.058] [Server thread/INFO] [Portal/]: Loading custom portal generation
-[15Jul2025 01:13:21.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.322s)! For help, type "help"
-[15Jul2025 01:13:21.091] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Jul2025 01:13:21.224] [Server thread/INFO] [Portal/]: Server performance level: good
-[15Jul2025 01:14:42.067] [Netty Epoll Server IO #2/INFO] [net.minecraft.network.Connection/]: (This is for debugging only. You can ignore that. Logging limit 1/5) Exception from connection: 
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	... 29 more
-[15Jul2025 01:14:42.074] [Netty Epoll Server IO #2/INFO] [net.minecraft.network.Connection/]: (This is for debugging only. You can ignore that. Logging limit 2/5) Exception from connection: 
-io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 48 bytes extra whilst reading packet 0
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:416) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:383) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:401) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:81) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1405) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:901) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:813) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 48 bytes extra whilst reading packet 0
-	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	... 28 more
-[15Jul2025 01:17:24.182] [Netty Epoll Server IO #4/INFO] [net.minecraft.network.Connection/]: (This is for debugging only. You can ignore that. Logging limit 3/5) Exception from connection: 
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	... 29 more
-[15Jul2025 01:17:24.184] [Netty Epoll Server IO #4/INFO] [net.minecraft.network.Connection/]: (This is for debugging only. You can ignore that. Logging limit 4/5) Exception from connection: 
-io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 77 bytes extra whilst reading packet 0
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 77 bytes extra whilst reading packet 0
-	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	... 29 more
-[15Jul2025 01:17:24.185] [Netty Epoll Server IO #4/INFO] [net.minecraft.network.Connection/]: (This is for debugging only. You can ignore that. Logging limit 5/5) Exception from connection: 
-io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/26 (ServerboundPickItemPacket) was larger than I expected, found 176 bytes extra whilst reading packet 26
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.io.IOException: Packet 0/26 (ServerboundPickItemPacket) was larger than I expected, found 176 bytes extra whilst reading packet 26
-	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
-	... 29 more
-[15Jul2025 01:19:11.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@265230fb[id=<null>,name=zilasaur,properties={},legacy=false] (/127.13.23.65:40897) lost connection: Internal Exception: java.util.ConcurrentModificationException
-[15Jul2025 01:19:11.841] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[15Jul2025 01:19:54.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37e027f7[id=<null>,name=zilasaur,properties={},legacy=false] (/127.13.23.65:55015) lost connection: Disconnected
-[15Jul2025 01:19:59.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.13.23.65:41519] logged in with entity id 140 at (8.5, 88.0, 0.5)
-[15Jul2025 01:19:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
-[15Jul2025 01:20:08.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
-[15Jul2025 01:20:08.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
-[15Jul2025 01:24:33.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.13.23.65:58947] logged in with entity id 373 at (8.5, 88.0, 0.5)
-[15Jul2025 01:24:33.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
-[15Jul2025 01:24:42.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
-[15Jul2025 01:24:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
-[15Jul2025 01:33:56.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.13.23.65:52215] logged in with entity id 509 at (8.5, 88.0, 0.5)
-[15Jul2025 01:33:56.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
-[15Jul2025 01:34:05.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
-[15Jul2025 01:34:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
-[15Jul2025 01:47:04.831] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minecraft:treechop-channel] rejected their client side version number
-[15Jul2025 01:47:04.832] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[15Jul2025 01:47:04.842] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@587b4a18[id=<null>,name=zilasaur,properties={},legacy=false] (/127.13.23.65:50719) lost connection: Connection closed - mismatched mod channel list
-[15Jul2025 01:48:01.326] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minecraft:treechop-channel] rejected their client side version number
-[15Jul2025 01:48:01.326] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[15Jul2025 01:48:01.341] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e59b4c4[id=<null>,name=zilasaur,properties={},legacy=false] (/127.13.23.65:53625) lost connection: Connection closed - mismatched mod channel list
-[15Jul2025 01:48:49.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.13.23.65:34649] logged in with entity id 647 at (8.5, 88.0, 0.5)
-[15Jul2025 01:48:49.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
-[15Jul2025 01:49:53.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Fallen Chaos Knight
-[15Jul2025 01:50:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Fallen Chaos Knight
-[15Jul2025 01:52:05.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
-[15Jul2025 01:52:05.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
-[15Jul2025 01:59:19.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.132.139.190:36001] logged in with entity id 12532 at (-197.75707082127516, 86.0, 84.88796152738867)
-[15Jul2025 01:59:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
-[15Jul2025 01:59:30.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
-[15Jul2025 01:59:30.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
-[15Jul2025 02:00:31.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.132.139.190:55207] logged in with entity id 12808 at (-197.75707082127516, 86.0, 84.88796152738867)
-[15Jul2025 02:00:31.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
-[15Jul2025 02:00:42.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
-[15Jul2025 02:00:42.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
-[15Jul2025 02:03:09.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.132.139.190:59713] logged in with entity id 13048 at (-197.75707082127516, 86.0, 84.88796152738867)
-[15Jul2025 02:03:09.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
-[15Jul2025 02:03:20.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
-[15Jul2025 02:03:20.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
-[15Jul2025 02:05:11.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.132.139.190:35305] logged in with entity id 13296 at (-197.75707082127516, 86.0, 84.88796152738867)
-[15Jul2025 02:05:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
-[15Jul2025 02:05:24.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
-[15Jul2025 02:05:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
-[15Jul2025 02:08:18.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.132.139.190:48807] logged in with entity id 13559 at (-197.75707082127516, 86.0, 84.88796152738867)
-[15Jul2025 02:08:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
-[15Jul2025 02:08:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[15Jul2025 02:08:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[15Jul2025 02:08:44.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[15Jul2025 02:08:44.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[15Jul2025 02:08:44.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld world'/minecraft:overworld
-[15Jul2025 02:08:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 world'/immersive_portals:alternate4
-[15Jul2025 02:08:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 world'/immersive_portals:alternate3
-[15Jul2025 02:08:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether world'/minecraft:the_nether
-[15Jul2025 02:08:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 world'/immersive_portals:alternate1
-[15Jul2025 02:08:44.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 world'/immersive_portals:alternate5
-[15Jul2025 02:08:44.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 world'/immersive_portals:alternate2
-[15Jul2025 02:08:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end world'/minecraft:the_end
-[15Jul2025 02:08:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15Jul2025 02:08:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate4): All chunks are saved
-[15Jul2025 02:08:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate3): All chunks are saved
-[15Jul2025 02:08:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15Jul2025 02:08:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate1): All chunks are saved
-[15Jul2025 02:08:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate5): All chunks are saved
-[15Jul2025 02:08:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate2): All chunks are saved
-[15Jul2025 02:08:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15Jul2025 02:08:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Jul2025 02:11:45.573] [Server thread/INFO] [Portal/]: Dimension Id Info Saved to File
+[15Jul2025 02:11:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Jul2025 02:11:49.089] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.113] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.122] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.144] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.166] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.179] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.181] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 02:11:49.575] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[15Jul2025 02:11:50.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[15Jul2025 02:11:50.605] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5031 ms
+[15Jul2025 02:11:50.607] [Server thread/INFO] [Portal/]: Loading custom portal generation
+[15Jul2025 02:11:50.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.241s)! For help, type "help"
+[15Jul2025 02:11:50.639] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Jul2025 02:11:50.780] [Server thread/INFO] [Portal/]: Server performance level: good
+[15Jul2025 02:12:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Jul2025 02:12:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jul2025 02:12:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jul2025 02:12:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jul2025 02:12:03.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld world'/minecraft:overworld
+[15Jul2025 02:12:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 world'/immersive_portals:alternate2
+[15Jul2025 02:12:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 world'/immersive_portals:alternate4
+[15Jul2025 02:12:04.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 world'/immersive_portals:alternate1
+[15Jul2025 02:12:04.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 world'/immersive_portals:alternate5
+[15Jul2025 02:12:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 world'/immersive_portals:alternate3
+[15Jul2025 02:12:04.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether world'/minecraft:the_nether
+[15Jul2025 02:12:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end world'/minecraft:the_end
+[15Jul2025 02:12:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2025 02:12:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate2): All chunks are saved
+[15Jul2025 02:12:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate4): All chunks are saved
+[15Jul2025 02:12:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate1): All chunks are saved
+[15Jul2025 02:12:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate5): All chunks are saved
+[15Jul2025 02:12:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate3): All chunks are saved
+[15Jul2025 02:12:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2025 02:12:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jul2025 02:12:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
