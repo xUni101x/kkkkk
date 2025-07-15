@@ -2664,3 +2664,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [15Jul2025 06:34:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur went up in flames
 [15Jul2025 06:36:17.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 06:36:17.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:37:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Baby Spider
+[15Jul2025 06:41:17.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:41:17.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:41:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was doomed to fall by Skeleton
+[15Jul2025 06:46:11.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1016, y=32, z=462} BlockPos{x=-1016, y=35, z=462}
+[15Jul2025 06:46:17.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:46:17.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
