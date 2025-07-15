@@ -555,3 +555,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [15Jul2025 06:37:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Baby Spider
 [15Jul2025 06:41:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was doomed to fall by Skeleton
 [15Jul2025 06:46:11.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1016, y=32, z=462} BlockPos{x=-1016, y=35, z=462}
+[15Jul2025 06:47:19.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1087, y=21, z=488} BlockPos{x=-1087, y=19, z=488}
+[15Jul2025 06:49:45.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1055, y=48, z=515} BlockPos{x=-1054, y=50, z=515}
+[15Jul2025 06:49:45.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1055, y=47, z=515} BlockPos{x=-1054, y=50, z=515}
+[15Jul2025 06:49:46.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1055, y=47, z=517} BlockPos{x=-1055, y=49, z=516}
+[15Jul2025 06:49:46.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1056, y=45, z=519} BlockPos{x=-1055, y=48, z=518}
+[15Jul2025 06:50:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Big Boy]
+[15Jul2025 06:54:16.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1085, y=15, z=487} BlockPos{x=-1084, y=14, z=487}
+[15Jul2025 06:55:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Bypassing the Expiration Date]

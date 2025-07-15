@@ -3025,6 +3025,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-15 06:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-15 06:02:46 +0000"
@@ -3034,6 +3040,12 @@
   "knightquest:recipes/misc/witch_boots": {
     "criteria": {
       "has_poisonous_potato": "2025-07-15 06:30:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-07-15 06:55:12 +0000"
     },
     "done": true
   },

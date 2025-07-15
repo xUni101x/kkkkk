@@ -2671,3 +2671,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [15Jul2025 06:46:11.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1016, y=32, z=462} BlockPos{x=-1016, y=35, z=462}
 [15Jul2025 06:46:17.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 06:46:17.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:47:19.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1087, y=21, z=488} BlockPos{x=-1087, y=19, z=488}
+[15Jul2025 06:49:45.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1055, y=48, z=515} BlockPos{x=-1054, y=50, z=515}
+[15Jul2025 06:49:45.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1055, y=47, z=515} BlockPos{x=-1054, y=50, z=515}
+[15Jul2025 06:49:46.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1055, y=47, z=517} BlockPos{x=-1055, y=49, z=516}
+[15Jul2025 06:49:46.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1056, y=45, z=519} BlockPos{x=-1055, y=48, z=518}
+[15Jul2025 06:50:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Big Boy]
+[15Jul2025 06:51:17.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:51:17.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:54:16.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1085, y=15, z=487} BlockPos{x=-1084, y=14, z=487}
+[15Jul2025 06:55:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Bypassing the Expiration Date]
+[15Jul2025 06:55:21.900] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jul2025 06:55:22.757] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jul2025 06:55:23.303] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jul2025 06:55:23.503] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jul2025 06:55:23.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jul2025 06:55:24.603] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jul2025 06:56:17.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:56:17.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
