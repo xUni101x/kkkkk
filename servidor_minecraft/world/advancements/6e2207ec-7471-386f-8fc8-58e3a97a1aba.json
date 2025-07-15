@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-07-15 01:07:25 +0000"
-    },
-    "done": false
-  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-07-15 01:07:24 +0000"
@@ -44,6 +38,18 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-07-15 01:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-07-15 01:07:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-15 01:49:53 +0000"
     },
     "done": true
   },
